@@ -1,4 +1,4 @@
-# Customer Segmentation using K-Means Clustering
+# Customer Segmentation using K-Means Clustering Algorithm
 
 ## Overview
 This project performs customer segmentation using the **K-Means clustering algorithm**. The dataset used for this project is available on Kaggle: [Customer Segmentation Dataset](https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutorial-in-python). The goal is to segment customers into different groups based on their purchasing behavior and other attributes.
